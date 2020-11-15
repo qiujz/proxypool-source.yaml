@@ -54,6 +54,9 @@
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
 - type: subscribe
   options:
+    url: http://haochi.miaoxiaom.top/files/sharecentre-201115-1
+- type: subscribe
+  options:
     url: https://festive-mahavira-df48a9.netlify.com
 - type: subscribe
   options:
