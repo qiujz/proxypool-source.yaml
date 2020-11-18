@@ -42,6 +42,15 @@
 # 订阅链接
 - type: subscribe
   options:
+    url: https://gitea.com/proxypools/sub/raw/branch/main/ss/ss.txt
+- type: subscribe
+  options:
+    url: https://gitea.com/proxypools/sub/raw/branch/main/ssr/ssr.txt
+- type: subscribe
+  options:
+    url: https://gitea.com/proxypools/sub/raw/branch/main/vmess/vs.txt
+- type: subscribe
+  options:
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
 - type: subscribe
   options:
