@@ -7,9 +7,6 @@
     url: https://uploader.shimo.im/f/KO9YB4sh4a9OSwXw.txt?attname=1.txt
 - type: webfuzzsub
   options:
-    url: https://t.me/s/ssrv2taytgshare?before=743
-- type: webfuzzsub
-  options:
     url: http://d.zaix.ru/ntiL.txt
 - type: webfuzzsub
   options:
@@ -84,24 +81,12 @@
     url: https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/2020-11-1
 - type: subscribe
   options:
-    url: https://www.recear.xyz/link/XZHfqw7m7nyO17hT?sub=3
-- type: subscribe
-  options:
     url: https://subhaha.xyz/link/A8OkgyOpxGeJOdFQ?sub=3&extend=1
 - type: subscribe
   options:
-    url: https://www.recear.xyz/link/XZHfqw7m7nyO17hT?sub=1
-- type: subscribe
-  options:
     url: https://subhaha.xyz/link/A8OkgyOpxGeJOdFQ?sub=1&extend=1
-- type: subscribe
-  options:
-    url: https://www.recear.xyz/link/XZHfqw7m7nyO17hT?sub=2
 
 # 网页模糊抓取
-- type: webfuzz
-  options:
-    url: https://merlinblog.xyz/wiki/freess.html
 - type: webfuzz
   options:
     url: https://github.com/umelabs/node.umelabs.dev
@@ -132,9 +117,6 @@
 - type: webfuzz
   options:
     url: https://www.youneed.win/free-ssr
-- type: webfuzz
-  options:
-    url: https://raw.githubusercontent.com/freefq/free/master/README.md
 - type: webfuzz
   options:
     url: https://zfjvpn.gitbook.io/
@@ -178,14 +160,6 @@
 # tg频道抓取
 - type: tgchannel
   options:
-    channel: ssrList
-    num: 200
-- type: tgchannel
-  options:
-    channel: SSRSUB
-    num: 200
-- type: tgchannel
-  options:
     channel: FreeSSRNode
     num: 200
 - type: tgchannel
@@ -202,23 +176,11 @@
     num: 200
 - type: tgchannel
   options:
-    channel: fanqiang666
-    num: 200
-- type: tgchannel
-  options:
     channel: ssrtool_crack
     num: 200
 - type: tgchannel
   options:
-    channel: ssrshares
-    num: 200
-- type: tgchannel
-  options:
     channel: gongyijichangfenxiang
-    num: 200
-- type: tgchannel
-  options:
-    channel: ssrv2taytgshare
     num: 200
 - type: tgchannel
   options:
@@ -354,10 +316,6 @@
     num: 200
 - type: tgchannel
   options:
-    channel: V2List
-    num: 200
-- type: tgchannel
-  options:
     channel: SuperFastProxy
     num: 200
 - type: tgchannel
@@ -370,10 +328,6 @@
     num: 200
 - type: tgchannel
   options:
-    channel: jiedianfenxiang
-    num: 200
-- type: tgchannel
-  options:
     channel: fanqiang666
     num: 200
 - type: tgchannel
@@ -382,27 +336,7 @@
     num: 200
 - type: tgchannel
   options:
-    channel: ssrshares
-    num: 200
-- type: tgchannel
-  options:
-    channel: gongyijichangfenxiang
-    num: 200
-- type: tgchannel
-  options:
-    channel: fanqiang666
-    num: 200
-- type: tgchannel
-  options:
     channel: ssrtool_crack
-    num: 200
-- type: tgchannel
-  options:
-    channel: ssrv2taytgshare
-    num: 200
-- type: tgchannel
-  options:
-    channel: VPNFolder
     num: 200
 - type: tgchannel
   options:
