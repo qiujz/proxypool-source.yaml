@@ -48,6 +48,15 @@
     url: https://gitea.com/proxypools/sub/raw/branch/main/vmess/vs.txt
 - type: subscribe
   options:
+    url: http://proxypool.turinglabs.net/upload/daily/shadowsocks
+- type: subscribe
+  options:
+    url: http://proxypool.turinglabs.net/upload/daily/shadowsocksR
+- type: subscribe
+  options:
+    url: http://proxypool.turinglabs.net/upload/daily/v2ray
+- type: subscribe
+  options:
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
 - type: subscribe
   options:
