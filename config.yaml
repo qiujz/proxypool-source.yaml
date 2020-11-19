@@ -17,3 +17,4 @@ source-files:
   # use web file
   - https://raw.githubusercontent.com/Alex950808/proxypool038/master/config/source.yaml
   - https://raw.githubusercontent.com/wishcaiji/proxypool/master/config/source.yaml
+  - https://github.com/money-fly/proxypool/raw/master/config/source.yaml
