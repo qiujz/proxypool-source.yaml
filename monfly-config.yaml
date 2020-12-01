@@ -1,0 +1,30 @@
+# your domain
+domain: example.com
+port:             # default 8080
+
+# database dsn(postgresql)
+# 暂不支持远程数据库，留空以启用本地数据库默认连接参数
+database_url: ""
+
+# time duration between each execution
+crontime:   # default 60
+
+# cloudflare api
+cf_email: ""
+cf_key: ""
+
+# source definition file
+source-files:
+  # use local file
+  - ./config/source.yaml
+  # use web file
+  - https://hub.tgbot.co/proxy/webfuzz.yaml
+  - https://hub.tgbot.co/proxy/tgchannel.yaml
+  - https://hub.tgbot.co/proxy/subscribe.yaml
+  - https://hub.tgbot.co/proxy/others.yaml
+  - https://hub.tgbot.co/proxy/clash.yaml
+
+# speedtest
+speedtest: true  # default false. Warning: this will consume large net resource.
+connection:       # default 5.
+timeout:          # default 10 (seconds).
