@@ -15,10 +15,9 @@ cf_key: ""
 
 # source definition file
 source-files:
-  # use local file
-  - ./config/source.yaml
   # use web file
-  -
+  - https://raw.githubusercontent.com/grxp/proxypool/master/config/source.yaml
+  - https://raw.githubusercontent.com/money-fly/proxypool/master/config/source.yaml
 
 # speedtest
 speedtest: true  # default false. Warning: this will consume large net resource.
