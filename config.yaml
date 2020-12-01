@@ -10,7 +10,7 @@ source-files:
  - https://raw.githubusercontent.com/Alex950808/proxypool038/master/config/source.yaml
  - https://raw.githubusercontent.com/wishcaiji/proxypool/master/config/source.yaml
  - https://raw.githubusercontent.com/money-fly/proxypool/master/config/source.yaml
-
+ - https://raw.githubusercontent.com/grxp/proxypool/master/config/source.yaml
 
 # (optinal) postgresql database info
 database_url: ""
@@ -19,7 +19,7 @@ database_url: ""
 cron-interval:        # default 60 min
 
 # speedtest
-speedtest: false      # default false. Warning: this will consume large network resources.
+speedtest: true      # default false. Warning: this will consume large network resources.
 speedtest-interval:   # default 12 hours
 connection:           # default 5.
 timeout:              # default 10 (seconds).
