@@ -18,11 +18,7 @@ source-files:
   # use local file
   - ./config/source.yaml
   # use web file
-  - https://hub.tgbot.co/proxy/webfuzz.yaml
-  - https://hub.tgbot.co/proxy/tgchannel.yaml
-  - https://hub.tgbot.co/proxy/subscribe.yaml
-  - https://hub.tgbot.co/proxy/others.yaml
-  - https://hub.tgbot.co/proxy/clash.yaml
+  -
 
 # speedtest
 speedtest: true  # default false. Warning: this will consume large net resource.
