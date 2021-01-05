@@ -1,25 +1,32 @@
 # your domain
 domain: example.com
-port:             # default 8080
+port:                 # default 12580
 
-# database dsn(postgresql)
-# 暂不支持远程数据库，留空以启用本地数据库默认连接参数
+# source definition file
+source-files:
+ # use local file
+ - ./config/source.yaml
+ # use web file
+
+# ======= 可选项，留空使用default值  =======
+
+# postgresql database info
 database_url: ""
 
-# time duration between each execution
-crontime:   # default 60
+# interval between each crawling
+cron-interval:        #  v0.5.x default 60 (minutes)
+crontime:             #  v0.4.x default 60 (minutes). Deprecated in the newiest version
+
+# speed test
+speedtest: true       # default false. Warning: this will consume large network resources.
+speedtest-interval:   # default 12 (hours)
+connection:           # default 5. The number of speed test connections simultaneously
+timeout:              # default 10 (seconds).
+
+# active proxy check
+active-interval:      # default 1 (hour)
+active-frequency:     # default 100 (requests per hour)
 
 # cloudflare api
 cf_email: ""
 cf_key: ""
-
-# source definition file
-source-files:
-  # use web file
-  - https://raw.githubusercontent.com/grxp/proxypool/master/config/source.yaml
-  - https://raw.githubusercontent.com/money-fly/proxypool/master/config/source.yaml
-
-# speedtest
-speedtest: true  # default false. Warning: this will consume large net resource.
-connection:       # default 5.
-timeout:          # default 10 (seconds).
