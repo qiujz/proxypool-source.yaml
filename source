@@ -1,4 +1,40 @@
-
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://wangxinxing.ml/clash/proxies
+- type: clash
+  options:
+    url: https://proxy.moneyfly.club/clash/proxies
+- type: clash
+  options:
+    url: https://pool-840979.asia1.kinto.io/clash/proxies
+- type: clash
+  options:
+    url: https://0520.ml/clash/proxies
+- type: clash
+  options:
+    url: https://jiedian.gooii.ml/clash/proxies
+- type: clash
+  options:
+    url: http://158.101.141.160/clash/proxies
+- type: clash
+  options:
+    url: https://pool.starts.sh/clash/proxies
+- type: clash
+  options:
+    url: https://alexproxy002.herokuapp.com/clash/proxies
+- type: clash
+  options:
+    url: https://proxypoolss.tk/clash/proxies
+ - type: clash
+  options:
+    url: https://virmach.berkeley.team/clash/proxies
+ - type: clash
+  options:
+    url: https://ss.dswang.ga/clash/proxies
+ - type: clash
+  options:
+    url: https://proxypool.ga/clash/proxies
 
 # 网页模糊抓取
 - type: webfuzz
