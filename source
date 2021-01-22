@@ -39,7 +39,7 @@
 # 网页模糊抓取
 - type: webfuzz
   options:
-    url: https://i.sqeven.me/q/detail/100
+    url: https://i.sqeven.me/discuss/detail/100
 - type: webfuzz
   options:
     url: https://i.sqeven.me/discuss/detail/102
