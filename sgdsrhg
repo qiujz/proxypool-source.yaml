@@ -16,19 +16,16 @@
     url: https://gitea.com/proxypools/sub/raw/branch/main/clash/clash.yaml
 - type: subscribe
   options:
-    url: https://gitea.com/proxypools/sub/raw/branch/main/clash/clashr.yaml
+    url: https://gitea.com/proxypools/sub/raw/branch/main/clash/clashx.yaml
 - type: subscribe
   options:
-    url: https://gitea.com/proxypools/sub/raw/branch/main/qx/qx.yaml
+    url: https://free.kingfu.cf/ss/sub
 - type: subscribe
   options:
-    url: https://gitea.com/proxypools/sub/raw/branch/main/qx/q.yaml
+    url: https://free.kingfu.cf/ssr/sub
 - type: subscribe
   options:
-    url: https://gitea.com/proxypools/sub/raw/branch/main/loon/loon.yaml
+    url: https://free.kingfu.cf/vmess/sub
 - type: subscribe
   options:
-    url: https://gitea.com/proxypools/sub/raw/branch/main/sb/sb.yaml
-- type: subscribe
-  options:
-    url: https://gitea.com/proxypools/sub/raw/branch/main/ss/ss.txt
+    url: https://free.kingfu.cf/trojan/sub
