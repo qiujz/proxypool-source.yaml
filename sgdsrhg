@@ -14,6 +14,15 @@
 - type: webfuzzsub
   options:
     url: https://i.sqeven.me/q/detail/100
+- type: webfuzzsub
+  options:
+    url: https://i.sqeven.me/discuss/detail/104
+- type: webfuzzsub
+  options:
+    url: https://i.sqeven.me/discuss/detail/102
+- type: webfuzzsub
+  options:
+    url: https://i.sqeven.me/know/detail/103
     
 # 订阅链接
 - type: subscribe
@@ -187,6 +196,9 @@
 - type: webfuzz
   options:
     url: https://i.sqeven.me/know/detail/103
+- type: webfuzz
+  options:
+    url: https://i.sqeven.me/know/detail/104
 - type: webfuzz
   options:
     url: https://merlinblog.xyz/wiki/freess.html
