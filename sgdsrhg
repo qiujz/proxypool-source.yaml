@@ -1,3 +1,20 @@
+# 模糊抓取订阅链接
+- type: webfuzzsub
+  options:
+    url: https://github.com/freefq/free
+- type: webfuzzsub
+  options:
+    url: https://github.com/pojiezhiyuanjun/freev2
+- type: webfuzzsub
+  options:
+    url: https://wechoice.ml/main.html
+- type: webfuzzsub
+  options:
+    url: https://github.com/wechoice/wechoice.github.io/blob/eb7f35b85fb2c676c16598b258a17e05adb82718/main.html
+- type: webfuzzsub
+  options:
+    url: https://i.sqeven.me/q/detail/100
+    
 # 订阅链接
 - type: subscribe
   options:
