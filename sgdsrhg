@@ -46,3 +46,181 @@
 - type: subscribe
   options:
     url: https://free.kingfu.cf/trojan/sub
+
+# tg频道抓取
+- type: tgchannel
+  options:
+    channel: ssrList
+    num: 200
+- type: tgchannel
+  options:
+    channel: aifenxiang2020
+    num: 200
+- type: tgchannel
+  options:
+    channel: sharecentre
+    num: 200
+- type: tgchannel
+  options:
+    channel: SSRSUB
+    num: 200
+- type: tgchannel
+  options:
+    channel: FreeSSRNode
+    num: 200
+- type: tgchannel
+  options:
+    channel: V2List
+    num: 200
+- type: tgchannel
+  options:
+    channel: SuperFastProxy
+    num: 200
+- type: tgchannel
+  options:
+    channel: ssrtool
+    num: 200
+- type: tgchannel
+  options:
+    channel: freeshadowsock
+    num: 200
+- type: tgchannel
+  options:
+    channel: jiedianfenxiang
+    num: 200
+- type: tgchannel
+  options:
+    channel: fanqiang666
+    num: 200
+- type: tgchannel
+  options:
+    channel: ssrtool_crack
+    num: 200
+- type: tgchannel
+  options:
+    channel: ssrshares
+    num: 200
+- type: tgchannel
+  options:
+    channel: gongyijichangfenxiang
+    num: 200
+- type: tgchannel
+  options:
+    channel: fanqiang666
+    num: 200
+- type: tgchannel
+  options:
+    channel: ssrtool_crack
+    num: 200
+- type: tgchannel
+  options:
+    channel: ssrv2taytgshare
+    num: 200
+- type: tgchannel
+  options:
+    channel: VPNFolder
+    num: 200
+- type: tgchannel
+  options:
+    channel: proxypools
+    num: 200
+- type: tgchannel
+  options:
+    channel: ssrList
+    num: 200
+- type: tgchannel
+  options:
+    channel: ssList
+    num: 200
+- type: tgchannel
+  options:
+    channel: SSRSUB
+    num: 200
+- type: tgchannel
+  options:
+    channel: FreeSSRNode
+    num: 200
+- type: tgchannel
+  options:
+    channel: ssrlists
+    num: 200
+- type: tgchannel
+  options:
+    channel: ssrshares
+    num: 200
+- type: tgchannel
+  options:
+    channel: V2List
+    num: 200
+- type: tgchannel
+  options:
+    channel: FreeSSR666
+    num: 2000
+- type: tgchannel
+  options:
+    channel: fanqiang666
+    num: 200
+- type: tgchannel
+  options:
+    channel: jiedianfenxiang
+    num: 200
+- type: tgchannel
+  options:
+    channel: freeshadowsock
+    num: 200
+- type: tgchannel
+  options:
+    channel: QuantXSSR
+    num: 200
+- type: tgchannel
+  options:
+    channel: huhihuhihi
+    num: 2000
+- type: tgchannel
+  options:
+    channel: Ch_baipiao
+    num: 200
+- type: tgchannel
+  options:
+    channel: MTPdaili
+    num: 200
+- type: tgchannel
+  options:
+    channel: ripao1
+    num: 200
+- type: tgchannel
+  options:
+    channel: vmessr_mirror
+    num: 200
+- type: tgchannel
+  options:
+    channel: yg251153
+    num: 200
+- type: tgchannel
+  options:
+    channel: woyaofq
+    num: 200
+- type: tgchannel
+  options:
+    channel: FreeVPN8
+    num: 200
+- type: tgchannel
+  options:
+    channel: Xinana_awsl
+    num: 2000
+- type: tgchannel
+  options:
+    channel: daolis_miao
+    num: 200
+- type: tgchannel
+  options:
+    channel: baipiaojiedian
+    num: 200
+- type: tgchannel
+  options:
+    channel: LoremProxies
+    num: 100
+- type: tgchannel
+  options:
+    channel: sharecentre
+    num: 200
