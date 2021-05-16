@@ -46,7 +46,7 @@
 - type: subscribe
   options:
     url: https://free.kingfu.cf/trojan/sub
-
+    
 # tg频道抓取
 - type: tgchannel
   options:
@@ -224,3 +224,53 @@
   options:
     channel: sharecentre
     num: 200
+    
+# 网页模糊抓取
+- type: webfuzz
+  options:
+    url: https://i.sqeven.me/discuss/detail/100
+- type: webfuzz
+  options:
+    url: https://i.sqeven.me/discuss/detail/102
+- type: webfuzz
+  options:
+    url: https://i.sqeven.me/know/detail/103
+- type: webfuzz
+  options:
+    url: https://merlinblog.xyz/wiki/freess.html
+- type: webfuzz
+  options:
+    url: https://lisondawang.tk/jiedianfenxiang.html
+- type: webfuzz
+  options:
+    url: https://github.com/freefq/free
+- type: webfuzz
+  options:
+    url: https://github.com/JACKUSR2089/v2ray-subscribed
+- type: webfuzz
+  options:
+    url: https://github.com/umelabs/node.umelabs.dev
+- type: webfuzz
+  options:
+    url: https://github.com/freefq/free
+- type: webfuzz
+  options:
+    url: https://github.com/iwxf/free-v2ray/blob/master/README.md
+- type: webfuzz
+  options:
+    url: https://zfjvpn.gitbook.io/123/
+- type: webfuzz
+  options:
+    url: https://raw.githubusercontent.com/freefq/free/master/README.md
+- type: webfuzz
+  options:
+    url: https://raw.githubusercontent.com/52bp/52bp.github.io/master/freesite.html
+- type: webfuzz
+  options:
+    url: https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
+- type: webfuzz
+  options:
+    url: https://xincmg.github.io/
+- type: webfuzz
+  options:
+    url: https://www.facebook.com/groups/2371461312933872/?ref=share
